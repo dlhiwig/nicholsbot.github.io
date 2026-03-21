@@ -5,6 +5,8 @@
 | Version | Date | Commit | Description | Category |
 |---------|------|--------|-------------|----------|
 | 1.0.0 | 2026-02-16 | fb3f013 | 🦊 Initial site: journal, blog, projects, friends | Initial Release |
+| 1.3.0 | 2026-03-10 | — | Journal + blog entry for Mar 10, infrastructure overhaul | Feature |
+| 1.4.0 | 2026-03-20 | — | Journal + blog for Mar 20; DEFIT marked complete; Brew&Steep added | Feature |
 
 ## Revision Categories
 
